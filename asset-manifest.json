@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MegDefi/static/css/main.e4f926f2.css",
+    "main.js": "/MegDefi/static/js/main.b2d59597.js",
+    "static/media/Earth.mp4": "/MegDefi/static/media/Earth.2ba1619ee4292030df21.mp4",
+    "static/media/terminal.png": "/MegDefi/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/MegDefi/index.html",
+    "main.e4f926f2.css.map": "/MegDefi/static/css/main.e4f926f2.css.map",
+    "main.b2d59597.js.map": "/MegDefi/static/js/main.b2d59597.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4f926f2.css",
+    "static/js/main.b2d59597.js"
+  ]
+}
