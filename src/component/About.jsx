@@ -5,7 +5,7 @@ import AboutCard from './AboutCard';
 
 const About = () => {
   return (
-    <div className='w-[100%] mx-auto px-16 py-16 bg-black text-white text-center'>
+    <div className='w-[100%] mx-auto px-16 py-4 bg-black text-white text-center'>
         <div>
             <h1 className='py-4'>Next Generation Defi: <span className='blue'>A Better MegDefi Vision</span></h1>
             <p className='py-4 text-xl'>

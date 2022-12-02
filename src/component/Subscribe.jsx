@@ -5,7 +5,7 @@ const Subscribe = () => {
     <div className='w-full px-4 py-16 bg-black text-white text-center'>
         <h1><span className='blue'>Join MegDefi community</span></h1>
         <div className='py-4'>
-            <input className='p-3 mr-4 rounded-3xl '
+            <input className='p-3 m-4 rounded-3xl '
             type="email" placeholder='Enter your email address'/>
             <button>Subscribe</button>
         </div>
