@@ -52,7 +52,7 @@ const Footer = () => {
         </div>
 
         <div className='blue text-center py-4'>
-            <h3 className='mt-4'>Website Developed By B L U F A C E || 2022</h3>
+            <h3 className='mt-4'>Website Developed With Love By B L U F A C E || 2022</h3>
         </div>
         
     </div>
